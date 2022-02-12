@@ -2,6 +2,7 @@
 #define __OP_HPP__
 
 #include "base.hpp"
+#include <sstream>
 
 class Op : public Base {
     private:
